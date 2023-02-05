@@ -4,38 +4,47 @@ title: About
 permalink: /about/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.  
+# Jongjin Kim (He/His)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. 
-
-Sed faucibus felis purus, sed convallis leo dictum vehicula.
+Born in South Korea in 1986.
+Loves Statistics and Problem Solving.
+Husband of a wise woman.
+Father of one lovely son.
+Son of happy family.
 
 ## Education
 
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
+* Ph.D. in Statistics and Data Science at University of Central Florida (2020 - Current)
+* M.S. in Statistics and Data Science at University of Central Florida (2020 - 2023)
+* M.S. in Mathematics Education at Seoul National University (2014 - 2016)
+* B.S. in Mathematical Science (Minor in Electrical Engineering) at KAIST (2004 - 2008)
 
 ## Roles
 
-Founder, ABC Organisation
+Ph.D. Student 
+Graduate Teaching Assistant
+
+## Work Experience
+
+
 
 ## Skills
 
-* **Skill 1** - `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 2** - `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 3** - `Skill` / `Skill` / `Skill`
-* **Skill 4** - `Skill` / `Skill` / `Skill` 
-* **Skill 5** - `Skill`
-* **Skill 6** - `Skill` / `Skill` 
+* **Program Skills** - `R` (Master) / `Python` (Master) / `MATLAB` (Intermediate) / `Julia` (Beginner) / `SQL` (Beginner)
+* **Statistical Tools** - `SAS` / `SPSS` / `STATA` 
+* **Version Control** - `GitHub` / `GitLab`
+* **Documentation** - `R Markdown` / `Markdown` / `R Shiny` / `LaTeX`
+* **Experimental Tools** - `PsychoPy` / `E-Prime` 
     
     
 ## Achievements
 
-
-* [**This is my first achievement**](#) 
+* [**Psychonomics2018**](#) 
    
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+   Anchan, M., **Kim, J.**, & Soylu, F. (2018, November). Comparing Math Processing in Bilinguals and Monolinguals: Retrieval-based and Calculation-based Arithmetic, Poster presentation at the Psychonomics 2018, New Orleans, USA.
+
+
+   [Link for the paper](https://www.researchgate.net/publication/344179413_Comparing_Math_Processing_in_Bilinguals_and_Monolinguals_Retrieval-based_and_Calculation-based_Arithmetic)
 
 ***
 
@@ -49,7 +58,8 @@ Founder, ABC Organisation
 
    Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula
 
+## Achievements
 
 ## Contact me
 
-[agarwal.akshay.akshay8@gmail.com](mailto:agarwal.akshay.akshay8@gmail.com)
+[jkim205@knights.ucf.edu](mailto:jkim205@knights.ucf.edu)
